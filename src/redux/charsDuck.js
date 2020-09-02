@@ -172,8 +172,4 @@ export let getCharactersAction = () => (dispatch, getState) => {
             })
         }) */
 
-
-
-
-
 }
